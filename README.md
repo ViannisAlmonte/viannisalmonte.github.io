@@ -3,4 +3,4 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
 # How diverse is Lehigh University in terms of Race? 
 ![Lehigh Diversity](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Is%20Lehigh%20University%20a%20diverse%20college%3F.png?raw=true)
 # Do foster children go to college?
-![Foster children's success rate](viannisalmonte.github.io/What percentage of children in foster care go to college?.png)
+![Foster children's success rate](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/What%20percentage%20of%20children%20in%20foster%20care%20go%20to%20college%3F.png)
