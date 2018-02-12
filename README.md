@@ -18,6 +18,6 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
 
 # Lehigh's Fall Enrollment over 10 years
 ![Enrollemnt from 20017-2017]
-(https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Enrollment_of_Undergrad_Students_at_Lehigh_over_10_Years_Arts_&_Sciences_Business__Engingeering_chartbuilder.png?raw=true)
+(https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Enrollment%20Lehigh.png?raw=true)
 
 
