@@ -12,3 +12,6 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
 
 # BlackLivesMatter Movement
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1LsNF2umYRWDAMrsQbXMJDhbaPl_qJXjPklLWoSgRJqo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Lehigh's Fal 2016 Enrollment
+![Fall 2016 Enrollment](viannisalmonte.github.io/Fall_2016_enrollment_at_Lehigh_University_Fall_2016_enrollment_chartbuilder.png)
