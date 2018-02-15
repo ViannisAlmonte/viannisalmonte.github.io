@@ -17,7 +17,10 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
 ![Fall 2016 Enrollment](viannisalmonte.github.io/Fall_2016_enrollment_at_Lehigh_University_Fall_2016_enrollment_chartbuilder.png)
 
 # Lehigh's Fall Enrollment over 10 years
-![Enrollemnt from 20017-2017](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Enrollment%20Lehigh.png?raw=true)
+![Enrollment from 20017-2017](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Enrollment%20Lehigh.png?raw=true)
 
 # Map of Local Art Centers
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1P4oaV9Yw5Kfjte4LZiP36dkrmg4rwYiF4IaCdfSj&amp;viz=MAP&amp;h=false&amp;lat=40.611264420433635&amp;lng=-75.37313011166522&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+# Sexual Assault Victims by Sex
+![Sexual Assault Victims]
