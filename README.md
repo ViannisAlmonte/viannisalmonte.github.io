@@ -27,7 +27,7 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
  This line graph shows the amount of reportings made by both males and females through a ten year period. Generally, females  report rape or sexual assault more than males. The amount of reports have decreased in the later years.
 
 # Map of Homeless Shelters in or near Bethlehem
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1_ueZIvJesk0NY5awsnOOCRliHj0cZxG25Z4Ws4pL&amp;viz=MAP&amp;h=false&amp;lat=40.606408112545594&amp;lng=-75.42785489055177&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="200" height="100" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+16C5zAo0x0CJeXhE7SLWbEjxKq_SGVkbicJHy3k26&amp;viz=MAP&amp;h=false&amp;lat=40.62354366098064&amp;lng=-75.3827079484131&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 This map shows the nearest shelters for people who are homeless or center that are willing to help support people not only through supplies and food, but also resources for homeless to have a better future.
 
 # Map of Top Baby Names in the US
