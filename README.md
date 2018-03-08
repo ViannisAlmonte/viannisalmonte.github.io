@@ -29,4 +29,5 @@ This is a map/document that shows the number of total arrests over a selected ye
 # New friends
 ![Comic1](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Comic1.png?raw=true)
 ![Comic2](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Comic2.png?raw=true)
+
 This is a comic strips of situations that happen in everyday life where people of different ethnic backgrounds may be treated different just because of where they come from.
