@@ -42,4 +42,5 @@ This is a map/document that shows the number of total arrests over a selected ye
 
 # New friends
 <iframe src="//www.pixton.com/embed/u6v8fnuj" frameborder="0" width="400%" height="700" allowfullscreen></iframe>
+<iframe src="//www.pixton.com/embed/u6v8fnuj" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
 This is a comic strips of situations that happen in everyday life where people of different ethnic backgrounds may be treated different just because of where they come from.
