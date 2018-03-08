@@ -37,3 +37,7 @@ This is a map showing the top baby names in the United States by male and female
 # Important Crime Data over selected year
 <script type='text/javascript' src='https://us-west-2b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1016px; height: 991px;'><object class='tableauViz' width='1016' height='991' style='display:none;'><param name='host_url' value='https%3A%2F%2Fus-west-2b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;viannisstableau' /><param name='name' value='Tableau-Crimedata&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
 This is a map/document that shows the number of total arrests over a selected years. The data is then divided in terms of different tyoes of crimes,number of inidicuals who identify as female or male arrested and distinguished by race.
+
+# New friends
+<iframe src="//www.pixton.com/embed/u6v8fnuj" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+This is a comic strips of situations that happen in everyday life where people of different ethnic backgrounds may be treated different just because of where they come from.
