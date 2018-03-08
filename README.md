@@ -41,6 +41,5 @@ This is a map showing the top baby names in the United States by male and female
 This is a map/document that shows the number of total arrests over a selected years. The data is then divided in terms of different tyoes of crimes,number of inidicuals who identify as female or male arrested and distinguished by race.
 
 # New friends
-<iframe src="//www.pixton.com/embed/u6v8fnuj" frameborder="0" width="400%" height="700" allowfullscreen></iframe>
-<iframe src="//www.pixton.com/embed/u6v8fnuj" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+![Comic1](https://github.com/ViannisAlmonte/viannisalmonte.github.io/blob/master/Comic1.png?raw=true)
 This is a comic strips of situations that happen in everyday life where people of different ethnic backgrounds may be treated different just because of where they come from.
