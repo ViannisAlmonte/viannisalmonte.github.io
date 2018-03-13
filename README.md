@@ -1,5 +1,5 @@
 # About Me
-viannisalmonte.github.io/Screen Shot 2018-03-12 at 10.51.32 PM.png
+![Profile Pic](viannisalmonte.github.io/Screen Shot 2018-03-12 at 10.51.32 PM.png)
 My name is Viannis Almonte. I am currently a sophomore at Lehigh University and am a Poiltical Science and Journalism double major. My hometown is New Jersey and am bilingual. Here is my [LinkedIn Page](https://www.linkedin.com/in/viannis-almonte-817803126/)
 
 One of my passions ,which will be a major theme throughout this page, is justice in terms of race, gender, sex, disbilities,etc. For more information on social inequalities experienced by those in social minority groups check out my tumblr. Here is my [Tumblr](https://viannisthingsblog.tumblr.com)
