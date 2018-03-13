@@ -4,7 +4,7 @@ My name is Viannis Almonte. I am currently a sophomore at Lehigh University and 
 One of my passions ,which will be a major theme throughout this page, is justice in terms of race, gender, sex, disbilities,etc. For more information on social inequalities experienced by those in social minority groups check out my tumblr. Here is my [Tumblr](https://viannisthingsblog.tumblr.com)
 
 # Introduction to my page
-
+(viannisalmonte.github.io/Screen Shot 2018-03-12 at 10.42.10 PM.png)
 
 # How diverse is Lehigh University in terms of Race? 
 ![Lehigh Diversity](viannisalmonte.github.io/Fall_2016_enrollment_at_Lehigh_University_Fall_2016_enrollment_chartbuilder.png)
